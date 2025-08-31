@@ -1,16 +1,17 @@
-**Airline 
-Delay Project**
+**Flight Delay Analysis | U.S. Bureau of Transportation Statistics Project**
 
-Analyzed and interpreted flight delay data to uncover patterns and insights that can help airlines improve operational efficiency.
+Analyzed and interpreted close to a million U.S. flight records from the Bureau of Transportation Statistics to uncover patterns and insights that can help airlines improve operational efficiency.
 
-Engineered and cleaned complex datasets using Python libraries such as pandas and NumPy, handling missing values, correcting inconsistencies, and transforming timestamps for analysis.
+Engineered and cleaned complex datasets using Python libraries including pandas and NumPy, handling missing values, correcting inconsistencies, and transforming timestamps for analysis.
 
-Performed exploratory data analysis (EDA) using matplotlib and seaborn, creating visualizations that highlighted key trends in delays across airlines, airports, and time periods.
+Performed comprehensive exploratory data analysis (EDA) using matplotlib and seaborn, including airline delay rate rankings, airport-level delay aggregation, root cause breakdowns, and visualizing delay patterns.
 
-Identified actionable insights, including high-delay routes, peak delay periods, and airline-specific performance trends, providing recommendations for reducing delays.
+Identified actionable insights, such as high-delay routes, peak delay periods, top delayed airports, and carrier-specific performance trends, providing recommendations for reducing delays.
 
-Developed proficiency in Python data analysis stack, including pandas, NumPy, matplotlib, and seaborn, strengthening both data manipulation and visualization skills.
+Discovered that over 22% of monthly flights were delayed, with leading causes being NAS (National Airspace System) disruptions and late aircraft issues.
 
-Documented workflow and findings clearly using Jupyter Notebook markdown, making the project easy to follow and demonstrating ability to communicate technical insights effectively.
+Developed proficiency in the Python data analysis stack—pandas, NumPy, matplotlib, and seaborn—strengthening data manipulation and visualization skills.
 
-Impact: Showcased ability to turn raw flight data into meaningful insights, demonstrating strong analytical thinking, problem-solving, and Python-based data analysis skills.
+Documented workflow and findings clearly in Jupyter Notebook, demonstrating ability to communicate technical insights effectively.
+
+**Impact:** Showcased ability to turn raw flight data into meaningful insights, demonstrating strong analytical thinking, problem-solving, and Python-based data analysis skills.
